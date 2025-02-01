@@ -1,8 +1,7 @@
 # validate_flutter
 
-A new Flutter project!!!
-
-
+A new Flutter project.
+Hello
 
 ## Getting Started
 
